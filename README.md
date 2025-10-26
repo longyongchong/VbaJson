@@ -1,7 +1,5 @@
 # VbaJson - JSON解析器 for VBA
 
-https://img.shields.io/badge/license-MIT-blue.svg](LICENSE)
-
 VbaJson 是一个用于VBA的轻量级JSON解析器类模块，提供简单易用的接口来解析和处理JSON数据。
 
 ## 功能特性
