@@ -1,5 +1,3 @@
-# VbaJson
-VBA类模块便捷解析json数据
 # VbaJson - JSON解析器 for VBA
 
 https://img.shields.io/badge/license-MIT-blue.svg](LICENSE)
